@@ -1,2 +1,1 @@
-# tindog
-tinder for dogs (bootstrap5 project)
+TinDog Starting Files
